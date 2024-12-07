@@ -19,3 +19,5 @@ Simply run the script:
 ```bash
 ./server-stats.sh
 ```
+
+https://roadmap.sh/projects/server-stats
